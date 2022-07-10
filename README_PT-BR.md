@@ -4,6 +4,8 @@
 
 [Team Salvato (Dan Salvato, Satchely e Velinquent)](https://teamsalvato.com/) pela criação do jogo original
 
+[Vinícius Dias (ViniSD)/Doki Doki Translate Company](https://doki-doki-transtale-company.vercel.app/) pela tradução em português
+
 ... E eu mesmo por criar o código portado
 
 ##### Localização dos arquivos do DDLC

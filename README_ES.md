@@ -4,6 +4,8 @@
 
 [Team Salvato (Dan Salvato, Satchely y Velinquent)](https://teamsalvato.com/) por crear el juego original
 
+[Doki Doki Spanish Club](https://www.dokidokispanish.club/) por la traduccion al español
+
 ... Y a mí mismo por crear el código portado
 
 ##### Ubicación de archivos DDLC
